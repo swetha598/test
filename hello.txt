@@ -2,4 +2,7 @@ Hi
 welcome
 test
 demo
+In-between lines
 Git merge testing
+Added from local
+1234 testing
