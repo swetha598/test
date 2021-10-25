@@ -1,0 +1,5 @@
+Hi
+welcome
+test
+demo
+Git merge testing
