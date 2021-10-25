@@ -3,3 +3,5 @@ welcome
 test
 demo
 Git merge testing
+Added directly from git ui 
+3 Amigos - QA,BA,DEV
